@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**rahulgawale/rahulgawale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **rahulgawale/rahulgawale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Lightning Web Components, Apex, 
+- 🌱 I’m currently learning DSA with Java
+- 👯 I’m looking to collaborate on JavaScript/Lightning Web Component
+- 🤔 I’m looking for help with Drag and Drap Components in LWC framework.
+- 💬 Ask me about LWC, Apex, Salesforce
+- 📫 How to reach me: [Twitter](https://twitter.com/rahul_gawale)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I play Piano
