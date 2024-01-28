@@ -12,6 +12,8 @@ I am Salesforce Developer @ Techila Global Serivces, based in Pune, India.
 - 📫 How to reach me: [Twitter](https://twitter.com/rahul_gawale)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play Piano
+- 📝 I blog about Salesforce at [Forcetrails - ☁️ Salesforce Developer Blog](https://www.forcetrails.com/)
+- 📝 I blog about tech and craft at [RGCodeCraft - 🎨 Just another developer blog](https://rgcodecraft.com/)
 
 <br/>
 
