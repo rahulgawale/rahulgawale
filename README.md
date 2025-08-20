@@ -3,7 +3,7 @@
 
 <!-- **rahulgawale/rahulgawale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I am Salesforce Developer @ Techila Global Serivces, based in Pune, India.
+I am Salesforce Developer @ Narvar, based in Bengaluru, India.
 
 - 🔭 I’m currently working on Lightning Web Components, Apex, 
 - 🌱 I’m currently learning DSA with Java
