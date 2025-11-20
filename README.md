@@ -5,8 +5,7 @@
 
 I am Salesforce Developer @ Narvar, based in Bengaluru, India.
 
-- 🔭 I’m currently working on Lightning Web Components, Apex, 
-- 🌱 I’m currently learning DSA with Java
+- 🔭 I’m currently working on Lightning Web Components, Apex, n8n, NodeJs, Golang
 - 👯 I’m looking to collaborate on JavaScript/Lightning Web Component
 - 💬 Ask me about LWC, Apex, Salesforce
 - 📫 How to reach me: [Twitter](https://twitter.com/rahul_gawale)
