@@ -5,14 +5,13 @@
 
 I am Salesforce Developer @ Narvar, based in Bengaluru, India.
 
-- 🔭 I’m currently working on Lightning Web Components, Apex, n8n, NodeJs, Golang
+- 🔭 I’m currently working on [Fandry UI](https://fandryui.forcetrails.com), an opinionated component library for LWC. 
 - 👯 I’m looking to collaborate on JavaScript/Lightning Web Component
 - 💬 Ask me about LWC, Apex, Salesforce
-- 📫 How to reach me: [Twitter](https://twitter.com/rahul_gawale)
+- 📫 How to reach me: [LinkedIN](https://www.linkedin.com/in/rahul-gawale/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play Piano
 - 📝 I blog about Salesforce at [Forcetrails - ☁️ Salesforce Developer Blog](https://www.forcetrails.com/)
-- 📝 I blog about tech and craft at [RGCodeCraft - 🎨 Just another developer blog](https://rgcodecraft.com/)
 
 <br/>
 
